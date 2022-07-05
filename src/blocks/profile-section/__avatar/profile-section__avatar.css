@@ -1,0 +1,15 @@
+.profile-section__avatar {
+    inline-size: 120px;
+    block-size: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: opacity 0.3s linear;
+    object-fit: cover;
+}
+
+
+@media screen and (max-width: 768px) {
+    .profile-section__avatar {
+        margin-inline-end: 0;
+    }
+}

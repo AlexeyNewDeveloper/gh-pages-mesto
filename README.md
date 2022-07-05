@@ -1,5 +1,7 @@
 # Проект: Место
+
 ---
+
 Ссылка на проект: [Mesto](https://alexeynewdeveloper.github.io/gh-pages-mesto/index.html)
 
 ## Обзор
@@ -13,74 +15,95 @@
 - Инструкция по развертыванию
 - Системные требования
 
-# 
+#
+
 ### Цель проекта
 
 Почти социальная галерея, которая поможет людям делится своими воспоминаниями о каких-либо местах. Делится эмоциями через фотографии.
 
 #
+
 ### Функциональность
 
-Адаптивный сайт с возможностью просмотра изображений из альбома, редактирования профиля, добавления фото и описания. 
+Адаптивный сайт с возможностью просмотра изображений из альбома, редактирования профиля, добавления фото и описания.
 Есть возможность оценивать лайками и видеть самые популярные места. Удалять можно только свои места.
 
 #
+
 ### Технологии
 
-В проекте использованы: 
-+ HTML
-+ CSS
-+ БЭМ
-+ Git
-+ JavaScript
+В проекте использованы:
+
+- HTML
+- CSS
+- БЭМ
+- Git
+- JavaScript
 
 #
+
 ### Ссылки
 
-+ **HTML**: [Самоучитель HTML](http://htmlbook.ru)
-+ **CSS**: [Самоучитель CSS](https://www.schoolsw3.com/css)
-+ **БЭМ**: [Методология БЭМ](https://ru.bem.info/methodology/)
-+ **Git**: [Учебник Git](https://git-scm.com/book/ru/v2)
-+ **JavaScript**: [Самоучитель JS](https://learn.javascript.ru/)
+- **HTML**: [Самоучитель HTML](http://htmlbook.ru)
+- **CSS**: [Самоучитель CSS](https://www.schoolsw3.com/css)
+- **БЭМ**: [Методология БЭМ](https://ru.bem.info/methodology/)
+- **Git**: [Учебник Git](https://git-scm.com/book/ru/v2)
+- **JavaScript**: [Самоучитель JS](https://learn.javascript.ru/)
 
 #
+
 ### Общий вид
 
-![screen-gif](./Mesto-gif.gif)
+![screen-gif](https://github.com/AlexeyNewDeveloper/IMGs/blob/main/gifs/Mesto-gif.gif)
 
 #
+
 ### Будущее проекта
 
 По мере прохождения обучения, планируется добавить в проект:
-+ Возможность комментировать места
-+ Создать БД для хранения контента
-+ Регистрация для пользователей
-+ Добавить валидацию форм
-+ Выложить проет на боевой сервер
+
+- Возможность комментировать места
+- Создать БД для хранения контента
+- Регистрация для пользователей
+- Добавить валидацию форм
+- Выложить проет на боевой сервер
 
 #
+
 ### Инструкция по развертыванию
 
-**_1. Необходимо клонировать себе проект с помощью команды git clone._** 
+**_1. Необходимо клонировать себе проект с помощью команды git clone._**
 
-**_2. Перейти в Настройки_** 
-  #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="650px"></img>
-  #
+**_2. Перейти в Настройки_**
+
+#
+
+<img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SettingsGH.png" width="650px"></img>
+
+#
+
 **_3. Нажать на ссылку Pages_**
-  #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png" width="250px"></img>
-  #
+
+#
+
+<img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/LinkToPages.png" width="250px"></img>
+
+#
+
 **_4. Выбрать нужную ветку и корневую папку_**
-  #
-  <img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SelectBranch.png" width="650px"></img>
-   
-#   
+
+#
+
+<img src="https://github.com/AlexeyNewDeveloper/IMGs/blob/main/Deploy_%D0%BD%D0%B0_%D0%93%D0%A5_pages/SelectBranch.png" width="650px"></img>
+
+#
+
 ### Системные требования
 
-  **Версия языка**
-  + HTML5
-  + CSS3
-  + JavaScript 6 
+**Версия языка**
+
+- HTML5
+- CSS3
+- JavaScript 6
 
 Необходим современный браузер и стабильный интернет. Если вы это читаете, значит все подходит :-)
